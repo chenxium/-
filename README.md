@@ -1,0 +1,3 @@
+# RecordofQuantitativeFinance
+记录衍生品定价、对冲回测与主观交易工具
+从一些金融的库开始
